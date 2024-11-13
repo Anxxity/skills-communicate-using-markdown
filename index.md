@@ -1,11 +1,11 @@
-# Sys-Scoreboard-css-edit 
+ <h1>Sys-Scoreboard-css-edit <h1>
 
 ## This above heading uses `<h1>` tag
 
 
 
 added a heading
-![Image of a socre board]([https://octodex.github.com/images/yaktocat.png](https://github.com/user-attachments/assets/e5cd5c54-8986-483c-ac3e-8fe22674b372))
+![Image of a socre board](https://github.com/user-attachments/assets/e5cd5c54-8986-483c-ac3e-8fe22674b372)
 
 ##### An example for a javascript 
 ###### This above heading uses `<h6>` tag, which is the smallest
@@ -64,6 +64,8 @@ function sendNUI(event, data, cb = () => {}) {
 }
  
 ```
-- [x] List syntax is required
-- [x] This item is complete
+- [x] created a heading
+- [x] created a sub-heading
+- [x] added a image
+- [x] created a coded example
 - [ ] This item is not complete
