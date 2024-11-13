@@ -1,11 +1,15 @@
-# This is an `<h1>` header, which is the largest
+# Sys-Scoreboard-css-edit 
 
-## This is an `<h2>` header
+## This above heading uses `<h1>` tag
 
-###### This is an `<h6>` header, which is the smallest
+
 
 added a heading
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of a socre board]([https://octodex.github.com/images/yaktocat.png](https://github.com/user-attachments/assets/e5cd5c54-8986-483c-ac3e-8fe22674b372))
+
+##### An example for a javascript 
+###### This above heading uses `<h6>` tag, which is the smallest
+
 ```
 window.addEventListener("message", function (event) {
   var countdownElement = document.getElementById("countdown");
